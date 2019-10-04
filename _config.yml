@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 deploy:
   type: git
   repo: https://github.com/JackyLee1976/dongdong.git
